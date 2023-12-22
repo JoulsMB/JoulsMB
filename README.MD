@@ -6,4 +6,4 @@ I'm a programmer in the language Java and Modder in the game Minecraft
 
 # My Stats
 
-![a](https://github-readme-stats.verce.app/api?username=JoulsMB&show_icons=true&theme=radical)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-readme-stats.vercel.app/api?username=JoulsMB&shot_icons=true&theme=radical"/> </a> </p>
