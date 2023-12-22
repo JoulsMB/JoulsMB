@@ -1,6 +1,9 @@
-                                                          Hi 👋, I'm JoulMB!
-¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+# About Me
 
-<h3 align="center">Stats:</h3>
-<p align="center">&nbsp;<img align="center" width="450px"src="https://github-readme-stats.vercel.app/api?username=MrBunnyDc&show_icons=true&locale=en&theme=merko" alt="vera0011" /></p>
-<p align="center"><img align="center" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrBunnyDc&show_icons=true&locale=en&layout=compact&theme=dark" alt="vera0011" /></p>
+Hi, i'm JoulsMb, before named "MrBunnyDc" but i dont have problems with any nickname.
+
+I'm a programmer in the language Java and Modder in the game Minecraft
+
+# My Stats
+
+![](https://github-readme-stats.verce.app/api?username=JoulsMB&show_icons=true&theme=radical)
