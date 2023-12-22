@@ -6,4 +6,4 @@ I'm a programmer in the language Java and Modder in the game Minecraft
 
 # My Stats
 
-![](https://github-readme-stats.verce.app/api?username=JoulsMB&show_icons=true&theme=radical)
+![a](https://github-readme-stats.verce.app/api?username=JoulsMB&show_icons=true&theme=radical)
